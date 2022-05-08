@@ -1,4 +1,5 @@
 /*
+    author: Alaa Bashar
     Project Name: My Claculator.
     How it works?
         1. Display modes.
