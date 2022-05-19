@@ -2,7 +2,7 @@
 
 ### How it works?
         1. Display modes.
-        <img src="README assets/1.jpg" width="300"></img>
+<img src="README assets/1.jpg" width="300"></img>
         2. Display the prober menu according to the selected mode
         3. Case Standard mode:
             3.1. Diplay the Standard operations (+, -, *, /, %)
