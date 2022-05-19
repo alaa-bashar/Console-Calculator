@@ -187,6 +187,8 @@ public class MyCalculator {
     */
     public static void trigonometricMethods(){
         
+        System.out.println("***** Trigonometric Methods *****");
+        
         // Choose one of the Trigonometric Methods
         boolean isRightMethod;
         do {
@@ -245,6 +247,8 @@ public class MyCalculator {
         3. Display the result according to the selected method.
     */
     public static void exponentMethods(){
+        
+        System.out.println("***** Exponent Methods *****");
         
         // Choose one of the Exponent Methods
         boolean isRightMethod;
@@ -311,6 +315,8 @@ public class MyCalculator {
         3. Display the result according to the selected method.
     */
     public static void roundingMethods(){
+        
+        System.out.println("***** Rounding Methods *****");
         
         // Choose one of the Rounding Methods
         boolean isRightMethod;
